@@ -6,9 +6,9 @@ A passionate Full Stack Engineer with 2+ years of experience in web development.
 I have over a year of experience in software engineering, working with various technologies and frameworks, such as React, Vue, Angular, Strapi.js, and Tailwind CSS. 
 Adaptable and resourceful, consistently delivering efficient and scalable solutions while staying up-to-date with emerging technologies.
 
-- 🔭 I’m currently working on Python, Flask, Postgres, Bootstrap, jQuery, React, & Tailwind CSS.
+- 🔭 I’m currently working on JavaScrip, ReactJs, NectJs, D3Js, Bootstrap & Tailwind CSS.
 - 🌱 I’m currently learning Python Backend Development.
-- 💬 Ask me about C, C++, Python, Java, React, HTML, CSS, Javascript, Bootstrap, or Assembly language.
+- 💬 Ask me about C, C++, Javascript, React/NextJs, Vue/NuxtJs, Angular, Node/NestJs or Assembly language.
 - 📫 How to reach me: mzee.vercel.app
 - ⚡ Fun fact: I love to solve programming problems.
 
