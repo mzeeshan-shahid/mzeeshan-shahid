@@ -3,7 +3,7 @@
 ### My Name is Muhammad Zeeshan 
 
 A passionate Full Stack Engineer with 2+ years of experience in web development. I build scalable, efficient, and user-friendly web solutions using the MERN stack. 
-I have over a year of experience in software engineering, working with various technologies and frameworks, such as React, Vue, Angular, Strapi.js, and Tailwind CSS. 
+I have over a 2+ years of experience in software engineering, working with various technologies and frameworks, such as React, Next, Vue, Nuxt, Nodde, Nestjs Angular, Strapi.js, and Tailwind CSS. 
 Adaptable and resourceful, consistently delivering efficient and scalable solutions while staying up-to-date with emerging technologies.
 
 - 🔭 I’m currently working on JavaScrip, ReactJs, NectJs, D3Js, Bootstrap & Tailwind CSS.
@@ -32,7 +32,7 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="hhttps://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg" title="Firebase"  alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg" title="Firebase"  alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
