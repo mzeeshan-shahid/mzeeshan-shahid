@@ -7,7 +7,7 @@ I have over a 2+ years of experience in software engineering, working with vario
 Adaptable and resourceful, consistently delivering efficient and scalable solutions while staying up-to-date with emerging technologies.
 
 - 🔭 I’m currently working on JavaScrip, ReactJs, NectJs, D3Js, Bootstrap & Tailwind CSS.
-- 🌱 I’m currently learning Python Backend Development.
+- 🌱 I’m currently learning Python AI/ML.
 - 💬 Ask me about C, C++, Javascript, React/NextJs, Vue/NuxtJs, Angular, Node/NestJs or Assembly language.
 - 📫 How to reach me: <a href="https://www.mzee.vercel.app/"> mzee.vercel.app <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
 - ⚡ Fun fact: I love to solve programming problems.
@@ -40,7 +40,7 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge"/>
     </a>
  <span></span>
     <a href="https://mzee.vercel.app">
