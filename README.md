@@ -37,7 +37,7 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
 </div>
 
 <br/>
-#### :busts_in_silhouette: Social Info :
+:busts_in_silhouette: Social Info :
 <div id="badges">
     <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzeeshan-shahid" height="30" width="40"/>
