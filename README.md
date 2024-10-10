@@ -42,7 +42,6 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
     <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzeeshan-shahid" height="30" width="40"/>
     </a>
- <span></span>
     <a href="https://mzee.vercel.app">
       <img src="https://firebasestorage.googleapis.com/v0/b/mzee-2f9da.appspot.com/o/logos%2Fchat.png?alt=media&token=39a0296e-d362-48bc-8d8f-425addb9b853" alt="mzee.vercel.app" height="30" width="40"/>
     </a>
