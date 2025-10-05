@@ -21,11 +21,6 @@ I’m passionate about designing **scalable**, **high-performance** applications
 
 ## 🎯 Specialties
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧩 Full-Stack Development
 - MERN Stack (MongoDB, Express.js, React, Node.js)
@@ -74,11 +69,6 @@ I’m passionate about designing **scalable**, **high-performance** applications
 - API Rate Limiting & Throttling  
 - Elasticsearch for high-speed querying  
 - Secure authentication & data protection  
-
-</td>
-</tr>
-</table>
-</div>
 
 📈 Passionate about **system design, automation, and performance optimization**!
 
