@@ -1,49 +1,237 @@
-![Image](1626719730536.gif?style=centerme) 
-## Hi there 👋 ![](https://komarev.com/ghpvc/?username=mzeeshan1512)
-### My Name is Muhammad Zeeshan 
+<h1 align="center">👋 Hi, I'm Muhammad Zeeshan</h1>
 
-A passionate Full Stack Engineer with 2+ years of experience in web development. I build scalable, efficient, and user-friendly web solutions using the MERN stack. 
-I have over a 2+ years of experience in software engineering, working with various technologies and frameworks, such as React, Next, Vue, Nuxt, Nodde, Nestjs Angular, Strapi.js, and Tailwind CSS. 
-Adaptable and resourceful, consistently delivering efficient and scalable solutions while staying up-to-date with emerging technologies.
+<p align="center">
+  <b>Senior Software Engineer | Full Stack Engineer | JS/TS Wizard | Microservices | Cloud DevOps | AI/ML | Vibe Coder</b>
+</p>
 
-- 🔭 I’m currently working on JavaScrip, ReactJs, NectJs, D3Js, Bootstrap & Tailwind CSS.
-- 🌱 I’m currently learning Python AI/ML.
-- 💬 Ask me about C, C++, Javascript, React/NextJs, Vue/NuxtJs, Angular, Node/NestJs or Assembly language.
-- 📫 How to reach me: <a href="https://www.mzee.vercel.app/"> mzee.vercel.app <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
-- ⚡ Fun fact: I love to solve programming problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mzeeshan-shahid"><img src="https://img.shields.io/badge/LinkedIn-MZeeshan-orange?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:mzeeshan.contanct@gmail.com"><img src="https://img.shields.io/badge/Email-mzeeshan.contanct%40gmail.com-orange?style=flat-square&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=mzeeshan1512&color=orange" alt="Profile Views">
+</p>
 
-#### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/d3js/d3js-original.svg" title="D3Js" alt="D3Js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="=VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="=NuxtJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg?plain=1" title="NestJs" alt="Nestjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"  title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg" title="Firebase"  alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+---
+
+## 🚀 About Me
+
+💼 **Senior Software Engineer** with hands-on expertise in **Full-Stack Development**, **AI/ML**, and **Cloud-Native Architecture**.  
+I’m passionate about designing **scalable**, **high-performance** applications, mentoring developers, and pushing the limits of modern technology.
+
+---
+
+## 🎯 Specialties
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Full-Stack Development
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- MEVN Stack (MongoDB, Express.js, Vue.js, Node.js)
+- MEAN Stack (MongoDB, Express.js, Angular, Node.js)
+- Django Full-Stack (Python, Django, React/Vue/Angular)
+- End-to-end product design & scalable app development
+
+### 🎨 Frontend
+- React, Next.js, Vue, Nuxt.js, Angular  
+- Responsive UI/UX Implementation  
+- State Management (Redux, Zustand, Vuex)  
+- UI Libraries: Material UI, Ant Design, Tailwind CSS  
+
+### ⚙️ Backend
+- Node.js, NestJS, Express.js, **Django**  
+- ORM Tools: Prisma, Sequelize, Django ORM  
+- RESTful & GraphQL APIs  
+- Dot Net C#  
+- Event-driven architecture & message queues (Kafka, RabbitMQ)  
+- Microservices Architecture  
+
+### 🔗 API Integrations
+- Stripe (Payments), Persona (KYC)  
+- Google Maps, OpenAI, BytePlus  
+- Payby, GrubTech, and other APIs  
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3)  
+- Azure (VM, Blob Storage, App Services)  
+- Docker & Containerization  
+- CI/CD Pipelines (GitHub Actions, Jenkins)  
+- Infrastructure as Code (IaC) Concepts  
+
+### 🧠 AI / ML
+- **Python**, TensorFlow, PyTorch  
+- Artificial Neural Networks (ANN)  
+- OpenAI API Integrations  
+- Machine Learning for automation & analytics  
+
+### 🔐 Security & Optimization
+- JWT, OAuth 2.0, Keycloak  
+- API Rate Limiting & Throttling  
+- Elasticsearch for high-speed querying  
+- Secure authentication & data protection  
+
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
-:busts_in_silhouette: Social Info :
-<div id="badges">
-    <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzeeshan-shahid" height="30" width="40"/>
-    </a>
-    <a href="https://mzee.vercel.app">
-      <img src="https://firebasestorage.googleapis.com/v0/b/mzee-2f9da.appspot.com/o/logos%2Fchat.png?alt=media&token=39a0296e-d362-48bc-8d8f-425addb9b853" alt="mzee.vercel.app" height="30" width="40"/>
-    </a>
+📈 Passionate about **system design, automation, and performance optimization**!
 
-  </div>
+---
+
+## 🌟 Featured Projects  
+
+### 🍔 [RestHero](https://chartwelldigital.com/)
+**_A SaaS platform that empowers restaurants to go live, connect, and scale — in just a few clicks._**
+
+🧠 **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+
+✨ **Key Features:**  
+- ⚡ Instant Restaurant Onboarding  
+- 🧭 Unified Admin Dashboard  
+- 🧩 Modular Service Activation  
+- 🤖 AI-Powered Influencer Marketing  
+- 💬 WhatsApp Ordering Flow  
+- 🎥 Live Stream Rooms  
+- 💳 Multi-Payment Integration (Stripe, PayBy)  
+- 🚚 Delivery Partner Integrations (Careem, Jeebly, Slider)  
+- 🏗️ Scalable SaaS Architecture  
+
+---
+
+### 🚀 [Chartwell Digital](https://chartwelldigital.com/)
+**_A performance analytics and campaign management platform for data-driven marketing._**
+
+🧠 **Tech Stack:** Next.js, Django, Tailwind CSS, PostgreSQL  
+
+✨ **Key Features:**  
+- 🧩 Next.js + Django Ecosystem  
+- 🎨 Responsive UI with Tailwind CSS  
+- ⚙️ Optimized PostgreSQL for Analytics  
+- 🔍 SEO Enhancements and Tracking  
+
+---
+
+### ✈️ [TripMerchant](https://tripmerchant.com/)
+**_A multi-tenant SaaS platform powering membership-based travel experiences._**
+
+🧠 **Tech Stack:** React.js, Node.js, Sequelize, MySQL  
+
+✨ **Key Features:**  
+- 🌍 Customizable, Member-Specific Websites  
+- 🧭 Real-Time Admin Dashboard  
+- 🏗️ Multi-Tenancy Architecture  
+- 💳 Stripe Payment Integration  
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+---
+
+### 🧰 DevOps / Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
+### 🧩 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+---
+
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### 🧠 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white)
+
+---
+
+### 🔗 Integrations / APIs
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Payby](https://img.shields.io/badge/Payby-000000?style=flat-square&logo=payby&logoColor=white)
+![BytePlus](https://img.shields.io/badge/BytePlus_API-000000?style=flat-square&logo=bytedance&logoColor=white)
+![GrubTech](https://img.shields.io/badge/GrubTech-000000?style=flat-square&logo=grubtech&logoColor=white)
+![Careem](https://img.shields.io/badge/Careem_API-00C26A?style=flat-square&logo=careem&logoColor=white)
+![Jeebly](https://img.shields.io/badge/Jeebly-000000?style=flat-square&logo=jeebly&logoColor=white)
+![Slider](https://img.shields.io/badge/Slider_API-000000?style=flat-square&logo=slider&logoColor=white)
+
+---
+
+### 🧰 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=lovable&logoColor=white)
+![Persona](https://img.shields.io/badge/Persona-000000?style=flat-square&logo=persona&logoColor=white)
+![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-000000?style=flat-square&logo=vibe-coder&logoColor=white)
+
+---
+
+## 🏆 Achievements & Trophies
+
+### 🧠 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mzeeshan-shahid&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 💪 GitHub Stats
+![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
+
+### 💡 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeshan-shahid&layout=compact&theme=onedark)
+
+---
+
+## 📞 Get in Touch  
+🌐 [Website](https://mzee.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mzeeshan-shahid)  
+📧 [Email](mailto:mzeeshan.contanct@gmail.com)
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!** ⭐
