@@ -231,20 +231,27 @@ Currently expanding my skills in:
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Github Achievements
 
-### 🧠 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=mzeeshan-shahid&theme=onedark&no-frame=true&margin-w=15)
-
-### 💪 GitHub Stats
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
+### 📊 GitHub Overview
+![MZee’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzeeshan-shahid&theme=onedark)
 
 ### 💡 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=mzeeshan-shahid&theme=onedark&hide_border=true)
 
-### 📊 GitHub Overview
-![Zeeshan’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzeeshan-shahid&theme=onedark)
+### 💪 GitHub Stats
+![MZee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
 
+### 🧠 GitHub Trophies
+![MZee Achievement's](https://github-profile-trophy.vercel.app/?username=mzeeshan-shahid&theme=onedark&no-frame=true&margin-w=15)
+
+
+
+
+---
+## 🌐 Languages
+- English — Fluent  
+- Korean — Intermediate / Conversational
 ---
 
 ## 📞 Get in Touch  
