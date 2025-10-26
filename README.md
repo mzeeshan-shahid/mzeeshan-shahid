@@ -57,12 +57,12 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### 🧩 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
@@ -117,7 +117,10 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 
 ## 🌟 Featured Projects  
 
-### 🍔 [RestHero](https://chartwelldigital.com/)
+<details>
+<summary>🍔 <b>RestHero</b></summary>
+
+**[🔗 Visit Site](https://chartwelldigital.com/)**  
 **_A SaaS platform that empowers restaurants to go live, connect, and scale — in just a few clicks._**
 
 🧠 **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
@@ -132,10 +135,14 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 - 💳 Multi-Payment Integration (Stripe, PayBy)  
 - 🚚 Delivery Partner Integrations (Careem, Jeebly, Slider)  
 - 🏗️ Scalable SaaS Architecture  
+</details>
 
 ---
 
-### 🚀 [Chartwell Digital](https://chartwelldigital.com/)
+<details>
+<summary>🚀 <b>Chartwell Digital</b></summary>
+
+**[🔗 Visit Site](https://chartwelldigital.com/)**  
 **_A performance analytics and campaign management platform for data-driven marketing._**
 
 🧠 **Tech Stack:** Next.js, Django, Tailwind CSS, PostgreSQL  
@@ -145,10 +152,14 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 - 🎨 Responsive UI with Tailwind CSS  
 - ⚙️ Optimized PostgreSQL for Analytics  
 - 🔍 SEO Enhancements and Tracking  
+</details>
 
 ---
 
-### ✈️ [TripMerchant](https://tripmerchant.com/)
+<details>
+<summary>✈️ <b>TripMerchant</b></summary>
+
+**[🔗 Visit Site](https://tripmerchant.com/)**  
 **_A multi-tenant SaaS platform powering membership-based travel experiences._**
 
 🧠 **Tech Stack:** React.js, Node.js, Sequelize, MySQL  
@@ -158,9 +169,10 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 - 🧭 Real-Time Admin Dashboard  
 - 🏗️ Multi-Tenancy Architecture  
 - 💳 Stripe Payment Integration  
+</details>
 
 ---
-B
+
 ## 🏆 Github Insights
 
 ### 📊 GitHub Overview
@@ -181,9 +193,14 @@ B
 
 
 ---
-## 🌐 Languages
-- English — Fluent  
-- Korean — Intermediate / Conversational
+<details>
+<summary>🌐 <b>Languages</b></summary>
+<ul>
+<li>English — Fluent</li>  
+<li>Korean — Intermediate / Conversational</li>
+<ul>
+</details>
+
 ---
 
 ## 📞 Get in Touch  
