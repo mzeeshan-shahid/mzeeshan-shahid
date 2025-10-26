@@ -26,68 +26,82 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 
 ## 🎯 Current Focus
 
-- 🧠 Learning and applying **AI/ML fundamentals**  
-- 🤖 Integrating **OpenAI** and **LangChain** in full-stack projects  
-- 📊 Using data-driven insights to improve products  
-- 🧩 Enhancing team workflows with **Agile & DevOps practices** 
-
+- 🤖 Exploring AI/ML fundamentals and LangChain/OpenAI integrations
+- 🧩 Architecting microservices and scalable APIs
+- ☁️ Improving DevOps & CI/CD pipelines
+- 📊 Using data-driven insights for smarter products
 ---
 
-## 🎯 🧩 Technical ExpertiseSpecialties
+## 🎯 🧩 Technical Expertise & Specialties
 
 
-### 🧩 Full-Stack Development
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-- MEVN Stack (MongoDB, Express.js, Vue.js, Node.js)
-- MEAN Stack (MongoDB, Express.js, Angular, Node.js)
-- Django Full-Stack (Python, Django, React/Vue/Angular)
-- End-to-end product design & scalable app development
-
+💻 Full Stack
 ### 🎨 Frontend
-- React, Next.js, Vue, Nuxt.js, Angular  
-- Responsive UI/UX Implementation  
-- State Management (Redux, Zustand, Vuex)  
-- UI Libraries: Material UI, Ant Design, Tailwind CSS  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### ⚙️ Backend
-- Node.js, NestJS, Express.js, **Django**  
-- ORM Tools: Prisma, Sequelize, Django ORM  
-- RESTful & GraphQL APIs  
-- Dot Net C#  
-- Event-driven architecture & message queues (Kafka, RabbitMQ)  
-- Microservices Architecture  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### 🔗 API Integrations
-- Stripe (Payments), Persona (KYC)  
-- Google Maps, OpenAI, BytePlus  
-- Payby, GrubTech, and other APIs  
+### 🧩 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+### 🧰 Git - Devops -Cloud Hosting
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3)  
-- Azure (VM, Blob Storage, App Services)  
-- Docker & Containerization  
-- CI/CD Pipelines (GitHub Actions, Jenkins)  
-- Infrastructure as Code (IaC) Concepts  
+### 🔗 Integrations / APIs
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Payby](https://img.shields.io/badge/Payby-000000?style=flat-square&logo=payby&logoColor=white)
+![BytePlus](https://img.shields.io/badge/BytePlus_API-000000?style=flat-square&logo=bytedance&logoColor=white)
+![GrubTech](https://img.shields.io/badge/GrubTech-000000?style=flat-square&logo=grubtech&logoColor=white)
+![Careem](https://img.shields.io/badge/Careem_API-00C26A?style=flat-square&logo=careem&logoColor=white)
+![Jeebly](https://img.shields.io/badge/Jeebly-000000?style=flat-square&logo=jeebly&logoColor=white)
+![Slider](https://img.shields.io/badge/Slider_API-000000?style=flat-square&logo=slider&logoColor=white)
 
-### 🔐 Security & Optimization
-- JWT, OAuth 2.0, Keycloak  
-- API Rate Limiting & Throttling  
-- Elasticsearch for high-speed querying  
-- Secure authentication & data protection  
 
+### 🧰 AI/ML - Tools & IDEs
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=lovable&logoColor=white)
+![Persona](https://img.shields.io/badge/Persona-000000?style=flat-square&logo=persona&logoColor=white)
+![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-000000?style=flat-square&logo=vibe-coder&logoColor=white)
+
+
+🧠 Strong in system design, microservices, and cloud-native development.
 📈 Passionate about **system design, automation, and performance optimization**!
-
----
-## 🧠 AI / ML  Learning Journey
-Currently expanding my skills in:
-- 🤖 **OpenAI API**, **LangChain**, and prompt engineering  
-- 🧩 Core **Machine Learning algorithms** and concepts  
-- 📊 Python libraries — NumPy, Pandas, Scikit-learn  
-- 🗣️ Building **AI-enhanced chatbots and data tools**  
-- 🔍 Integrating **AI APIs** into production apps  
 
 ---
 
@@ -146,91 +160,7 @@ Currently expanding my skills in:
 - 💳 Stripe Payment Integration  
 
 ---
-
-## 🛠️ Tools & Technologies
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
----
-
-### 🧰 DevOps / Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square&logo=gitlab&logoColor=white)
-
----
-
-### 🧩 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
----
-
-### ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 🧠 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white)
-
----
-
-### 🔗 Integrations / APIs
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Payby](https://img.shields.io/badge/Payby-000000?style=flat-square&logo=payby&logoColor=white)
-![BytePlus](https://img.shields.io/badge/BytePlus_API-000000?style=flat-square&logo=bytedance&logoColor=white)
-![GrubTech](https://img.shields.io/badge/GrubTech-000000?style=flat-square&logo=grubtech&logoColor=white)
-![Careem](https://img.shields.io/badge/Careem_API-00C26A?style=flat-square&logo=careem&logoColor=white)
-![Jeebly](https://img.shields.io/badge/Jeebly-000000?style=flat-square&logo=jeebly&logoColor=white)
-![Slider](https://img.shields.io/badge/Slider_API-000000?style=flat-square&logo=slider&logoColor=white)
-
----
-
-### 🧰 Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=lovable&logoColor=white)
-![Persona](https://img.shields.io/badge/Persona-000000?style=flat-square&logo=persona&logoColor=white)
-![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-000000?style=flat-square&logo=vibe-coder&logoColor=white)
-
----
-
+B
 ## 🏆 Github Insights
 
 ### 📊 GitHub Overview
