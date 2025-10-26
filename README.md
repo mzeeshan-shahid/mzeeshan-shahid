@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Zeeshan</h1>
 
 <p align="center">
-  <b>Senior Software Engineer | Full Stack Engineer | JS/TS Wizard | Microservices | Cloud DevOps | AI/ML | Vibe Coder</b>
+  <b>Senior Software Engineer | Full Stack Engineer | JS/TS Wizard | Microservices | DevOps | AI/ML | Vibe Coder</b>
 </p>
 
 <p align="center">
@@ -14,12 +14,26 @@
 
 ## 🚀 About Me
 
-💼 **Senior Software Engineer** with hands-on expertise in **Full-Stack Development**, **AI/ML**, and **Cloud-Native Architecture**.  
-I’m passionate about designing **scalable**, **high-performance** applications, mentoring developers, and pushing the limits of modern technology.
+💼 **Senior Software Engineer** with experience in building and leading full-stack teams, delivering scalable products, and continuously improving engineering workflows.  
+
+I'm passionate about applying **AI-driven solutions** within modern web applications and learning how **Machine Learning** can enhance automation, data insights, and user experiences. 
+
+I also bring hands-on experience in **project management**, **team coordination**, and **agile delivery** using tools like **Jira**, **ClickUp**, and **GitHub Projects**.
+
+I enjoy leading teams, improving developer workflows, and delivering production-ready systems with speed and quality.  
 
 ---
 
-## 🎯 Specialties
+## 🎯 Current Focus
+
+- 🧠 Learning and applying **AI/ML fundamentals**  
+- 🤖 Integrating **OpenAI** and **LangChain** in full-stack projects  
+- 📊 Using data-driven insights to improve products  
+- 🧩 Enhancing team workflows with **Agile & DevOps practices** 
+
+---
+
+## 🎯 🧩 Technical ExpertiseSpecialties
 
 
 ### 🧩 Full-Stack Development
@@ -58,12 +72,6 @@ I’m passionate about designing **scalable**, **high-performance** applications
 - CI/CD Pipelines (GitHub Actions, Jenkins)  
 - Infrastructure as Code (IaC) Concepts  
 
-### 🧠 AI / ML
-- **Python**, TensorFlow, PyTorch  
-- Artificial Neural Networks (ANN)  
-- OpenAI API Integrations  
-- Machine Learning for automation & analytics  
-
 ### 🔐 Security & Optimization
 - JWT, OAuth 2.0, Keycloak  
 - API Rate Limiting & Throttling  
@@ -71,6 +79,25 @@ I’m passionate about designing **scalable**, **high-performance** applications
 - Secure authentication & data protection  
 
 📈 Passionate about **system design, automation, and performance optimization**!
+
+---
+## 🧠 AI / ML  Learning Journey
+Currently expanding my skills in:
+- 🤖 **OpenAI API**, **LangChain**, and prompt engineering  
+- 🧩 Core **Machine Learning algorithms** and concepts  
+- 📊 Python libraries — NumPy, Pandas, Scikit-learn  
+- 🗣️ Building **AI-enhanced chatbots and data tools**  
+- 🔍 Integrating **AI APIs** into production apps  
+
+---
+
+## 👨‍💼 Project & Product Management
+
+- Led cross-functional teams of 4–10 developers  
+- Managed sprint cycles and releases using **Jira** and **ClickUp**  
+- Oversaw technical documentation, API versioning, and code reviews  
+- Worked closely with stakeholders to define product roadmaps  
+- Streamlined processes through **GitHub Actions** automation  
 
 ---
 
@@ -207,13 +234,16 @@ I’m passionate about designing **scalable**, **high-performance** applications
 ## 🏆 Achievements & Trophies
 
 ### 🧠 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mzeeshan-shahid&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=mzeeshan-shahid&theme=onedark&no-frame=true&margin-w=15)
 
 ### 💪 GitHub Stats
 ![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
 
-### 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeshan-shahid&layout=compact&theme=onedark)
+### 💡 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=mzeeshan-shahid&theme=onedark&hide_border=true)
+
+### 📊 GitHub Overview
+![Zeeshan’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzeeshan-shahid&theme=onedark)
 
 ---
 
