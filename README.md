@@ -169,7 +169,7 @@ B
 ### 💡 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=mzeeshan-shahid&theme=onedark&hide_border=true)
 
-### 💪 GitHub Stats
+<!-- ### 💪 GitHub Stats
 ![MZee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
 
 ### 🧠 GitHub Achievements
@@ -177,7 +177,7 @@ B
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50" alt="YOLO Achievement"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50" alt="Starstruck Achievement"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="50" height="50" alt="Arctic Code Vault Contributor"/>
-</p>
+</p> -->
 
 
 ---
