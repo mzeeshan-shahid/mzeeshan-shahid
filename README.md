@@ -231,7 +231,7 @@ Currently expanding my skills in:
 
 ---
 
-## 🏆 Github Achievements
+## 🏆 Github Insights
 
 ### 📊 GitHub Overview
 ![MZee’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzeeshan-shahid&theme=onedark)
@@ -242,10 +242,12 @@ Currently expanding my skills in:
 ### 💪 GitHub Stats
 ![MZee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
 
-### 🧠 GitHub Trophies
-![MZee Achievement's](https://github-profile-trophy.vercel.app/?username=mzeeshan-shahid&theme=onedark&no-frame=true&margin-w=15)
-
-
+### 🧠 GitHub Achievements
+<p>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50" alt="YOLO Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50" alt="Starstruck Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="50" height="50" alt="Arctic Code Vault Contributor"/>
+</p>
 
 
 ---
