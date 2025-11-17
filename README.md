@@ -33,8 +33,9 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ---
 
 ## 🎯 🧩 Technical Expertise & Specialties
+<details>
+<summary><b>🎨 Frontend</b></summary>
 
-### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -47,7 +48,11 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### ⚙️ Backend
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -56,15 +61,22 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### 🧩 Databases
+</details>
+
+<details>
+<summary><b>🧩 Databases</b></summary>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+</details>
 
-### 🧰 Git - Devops -Cloud Hosting
+<details>
+<summary><b>🧰 Git - Devops - Cloud Hosting</b></summary>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -75,8 +87,11 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</details>
 
-### 🔗 Integrations / APIs
+<details>
+<summary><b>🔗 Integrations / APIs</b></summary>
+
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Payby](https://img.shields.io/badge/Payby-000000?style=flat-square&logo=payby&logoColor=white)
 ![BytePlus](https://img.shields.io/badge/BytePlus_API-000000?style=flat-square&logo=bytedance&logoColor=white)
@@ -85,8 +100,11 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ![Jeebly](https://img.shields.io/badge/Jeebly-000000?style=flat-square&logo=jeebly&logoColor=white)
 ![Slider](https://img.shields.io/badge/Slider_API-000000?style=flat-square&logo=slider&logoColor=white)
 
+</details>
 
-### 🧰 AI/ML - Tools & IDEs
+<details>
+<summary><b>🧰 AI/ML - Tools & IDEs</b></summary>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
@@ -97,6 +115,7 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ![Persona](https://img.shields.io/badge/Persona-000000?style=flat-square&logo=persona&logoColor=white)
 ![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-000000?style=flat-square&logo=vibe-coder&logoColor=white)
 
+</details>
 
 🧠 Strong in system design, microservices, and cloud-native development.
 
