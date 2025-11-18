@@ -106,7 +106,7 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 
 ## 👨‍💼 Project & Product Management
 
-- Led cross-functional teams of 4–10 developers  
+- Led cross-functional teams of developers  
 - Managed sprint cycles and releases using **Jira** and **ClickUp**  
 - Oversaw technical documentation, API versioning, and code reviews  
 - Worked closely with stakeholders to define product roadmaps  
