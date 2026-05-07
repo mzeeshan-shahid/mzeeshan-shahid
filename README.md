@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Muhammad Zeeshan</h1>
 
 <p align="center">
-  <b>Senior Software Engineer | Full Stack Engineer | JS/TS Wizard | Microservices | DevOps | AI/ML | Vibe Coder</b>
+  <b>Senior Software Engineer | Full Stack Engineer | AI-Powered Systems | Microservices | DevOps</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mzeeshan-shahid"><img src="https://img.shields.io/badge/LinkedIn-MZeeshan-orange?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:mzeeshan.contanct@gmail.com"><img src="https://img.shields.io/badge/Email-mzeeshan.contanct%40gmail.com-orange?style=flat-square&logo=gmail"></a>
+  <a href="mailto:mzeeshan.contact@gmail.com"><img src="https://img.shields.io/badge/Email-mzeeshan.contanct%40gmail.com-orange?style=flat-square&logo=gmail"></a>
   <img src="https://komarev.com/ghpvc/?username=mzeeshan1512&color=orange" alt="Profile Views">
 </p>
 
@@ -30,6 +30,19 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 - 🧩 Architecting microservices and scalable APIs
 - ☁️ Improving DevOps & CI/CD pipelines
 - 📊 Using data-driven insights for smarter products
+
+---
+
+## 🧠 Core Expertise
+
+- Full Stack SaaS Development
+- AI-Powered Automation Systems
+- Microservices Architecture
+- Cloud-Native Applications
+- DevOps & CI/CD Automation
+- Multi-Tenant Platforms
+- Scalable APIs & System Design
+
 ---
 
 ## 🎯 🧩 Technical Expertise & Specialties
@@ -150,7 +163,7 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 <details>
 <summary>🍔 <b>RestHero</b></summary>
 
-**[🔗 Visit Site](https://chartwelldigital.com/)**  
+**[🔗 Visit Site](https://resthero.io/)**  
 **_A SaaS platform that empowers restaurants to go live, connect, and scale — in just a few clicks._**
 
 🧠 **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
@@ -236,7 +249,7 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ## 📞 Get in Touch  
 🌐 [Website](https://mzee.vercel.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/mzeeshan-shahid)  
-📧 [Email](mailto:mzeeshan.contanct@gmail.com)
+📧 [Email](mailto:mzeeshan.contact@gmail.com)
 
 ---
 
