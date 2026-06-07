@@ -221,8 +221,9 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 ### 📊 GitHub Overview
 ![MZee’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzeeshan-shahid&theme=onedark)
 
-### 💡 GitHub Streak
+<!--### 💡 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=mzeeshan-shahid&theme=onedark&hide_border=true)
+ -->
 
 <!-- ### 💪 GitHub Stats
 ![MZee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
