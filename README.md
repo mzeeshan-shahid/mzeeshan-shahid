@@ -224,8 +224,7 @@ I enjoy leading teams, improving developer workflows, and delivering production-
 <!--### 💡 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=mzeeshan-shahid&theme=onedark&hide_border=true)
  -->
- ![Total Commits](https://img.shields.io/badge/Total%20Commits-1000%2B-success)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&include_all_commits=true&count_private=true)
 <!-- ### 💪 GitHub Stats
 ![MZee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzeeshan-shahid&show_icons=true&theme=onedark)
 
