@@ -1,5 +1,5 @@
 <a href="https://mzeeshanshahid.com">
-  <img src="./assets/header.svg" alt="Muhammad Zeeshan — Forward Deployed Engineer · Senior Software Engineer" width="100%">
+  <img src="./assets/header.svg?v=2" alt="Muhammad Zeeshan — Forward Deployed Engineer · Senior Software Engineer" width="100%">
 </a>
 
 <p align="center">
