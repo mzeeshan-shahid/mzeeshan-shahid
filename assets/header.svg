@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Muhammad Zeeshan, Forward Deployed Engineer">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#e8edf2" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glowTeal" cx="18%" cy="10%" r="60%">
+      <stop offset="0" stop-color="#4fb6c6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4fb6c6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCopper" cx="92%" cy="100%" r="55%">
+      <stop offset="0" stop-color="#e48c44" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e48c44" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a6e6ee"/>
+      <stop offset="0.45" stop-color="#4fb6c6"/>
+      <stop offset="1" stop-color="#2c8b9c"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fcc070"/>
+      <stop offset="1" stop-color="#e48c44"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4fb6c6" stop-opacity="0.9"/>
+      <stop offset="0.6" stop-color="#e48c44" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#e48c44" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .fade { opacity: 0; animation: in 0.9s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; } .d4 { animation-delay: 0.7s; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 1006px 62px; }
+    @keyframes pulse { 0%, 100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 0; transform: scale(2.4); } }
+  </style>
+
+  <!-- canvas -->
+  <rect width="1200" height="420" rx="18" fill="#0a0e11"/>
+  <rect width="1200" height="420" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="420" rx="18" fill="url(#glowTeal)"/>
+  <rect width="1200" height="420" rx="18" fill="url(#glowCopper)"/>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="18" fill="none" stroke="#4fb6c6" stroke-opacity="0.18"/>
+
+  <!-- corner ticks -->
+  <g stroke="#4fb6c6" stroke-opacity="0.5" stroke-width="1.5" fill="none">
+    <path d="M28 52V28H52"/><path d="M1148 28H1172V52"/>
+    <path d="M28 368V392H52"/><path d="M1148 392H1172V368"/>
+  </g>
+
+  <!-- availability -->
+  <g class="fade d1">
+    <rect x="990" y="46" width="166" height="32" rx="16" fill="#111820" stroke="#4fb6c6" stroke-opacity="0.25"/>
+    <circle class="pulse" cx="1006" cy="62" r="5" fill="#4fb6c6"/>
+    <circle cx="1006" cy="62" r="4" fill="#4fb6c6"/>
+    <text x="1020" y="67" class="sans" font-size="13" font-weight="600" fill="#93a1b0">Open to remote work</text>
+  </g>
+
+  <!-- eyebrow -->
+  <g class="fade d1">
+    <rect x="80" y="104" width="28" height="2" fill="url(#copper)"/>
+    <text x="120" y="111" class="sans" font-size="16" font-weight="600" letter-spacing="5" fill="url(#copper)">FORWARD DEPLOYED ENGINEER</text>
+  </g>
+
+  <!-- name -->
+  <text x="76" y="200" class="sans fade d2" font-size="82" font-weight="700" letter-spacing="-1.5" fill="url(#name)">Muhammad Zeeshan</text>
+
+  <!-- role -->
+  <text x="80" y="246" class="sans fade d3" font-size="22" fill="#e8edf2">Senior Software Engineer <tspan fill="#e48c44" font-weight="600">@ Techvians</tspan> <tspan fill="#5c6570">·</tspan> <tspan fill="#93a1b0">Building AI systems that ship.</tspan></text>
+
+  <rect x="80" y="274" width="560" height="1.5" fill="url(#rule)" class="fade d3"/>
+
+  <!-- focus chips -->
+  <g class="sans fade d4" font-size="14" font-weight="600" text-anchor="middle">
+    <rect x="80" y="300" width="132" height="36" rx="8" fill="#111820" stroke="#4fb6c6" stroke-opacity="0.3"/>
+    <text x="146" y="323" fill="#7cc8d0">Full Stack</text>
+    <rect x="224" y="300" width="186" height="36" rx="8" fill="#111820" stroke="#4fb6c6" stroke-opacity="0.3"/>
+    <text x="317" y="323" fill="#7cc8d0">AI-Powered Systems</text>
+    <rect x="422" y="300" width="148" height="36" rx="8" fill="#111820" stroke="#4fb6c6" stroke-opacity="0.3"/>
+    <text x="496" y="323" fill="#7cc8d0">Microservices</text>
+    <rect x="582" y="300" width="104" height="36" rx="8" fill="#111820" stroke="#e48c44" stroke-opacity="0.35"/>
+    <text x="634" y="323" fill="#fcb45c">DevOps</text>
+  </g>
+
+  <!-- footer url -->
+  <text x="1120" y="372" class="mono fade d4" font-size="14" text-anchor="end" fill="#5c6570">mzeeshanshahid.com</text>
+</svg>
