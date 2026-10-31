@@ -1,6 +1,12 @@
 <a href="https://mzeeshanshahid.com">
-  <img src="./assets/header.svg" alt="Muhammad Zeeshan — Forward Deployed Engineer · Senior Software Engineer @ Techvians" width="100%">
+  <img src="./assets/header.svg" alt="Muhammad Zeeshan — Forward Deployed Engineer · Senior Software Engineer" width="100%">
 </a>
+
+<p align="center">
+  <a href="https://mzeeshanshahid.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Catamaran&weight=600&size=24&duration=3200&pause=900&color=4FB6C6&center=true&vCenter=true&width=820&height=50&lines=Building+AI+Systems;AI+copilots+%C2%B7+RAG+pipelines+%C2%B7+agentic+workflows;Scalable+full-stack+products;Click.+Connect.+Create." alt="Building AI Systems">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://mzeeshanshahid.com"><img src="https://img.shields.io/badge/Portfolio-111820?style=for-the-badge&logo=googlechrome&logoColor=4fb6c6" alt="Portfolio"></a>

@@ -68,7 +68,7 @@
   <text x="76" y="200" class="sans fade d2" font-size="82" font-weight="700" letter-spacing="-1.5" fill="url(#name)">Muhammad Zeeshan</text>
 
   <!-- role -->
-  <text x="80" y="246" class="sans fade d3" font-size="22" fill="#e8edf2">Senior Software Engineer <tspan fill="#e48c44" font-weight="600">@ Techvians</tspan> <tspan fill="#5c6570">·</tspan> <tspan fill="#93a1b0">Building AI systems that ship.</tspan></text>
+  <text x="80" y="246" class="sans fade d3" font-size="22" fill="#e8edf2">Senior Software Engineer <tspan fill="#5c6570">·</tspan> <tspan fill="#93a1b0">Building AI systems that ship.</tspan></text>
 
   <rect x="80" y="274" width="560" height="1.5" fill="url(#rule)" class="fade d3"/>
 
