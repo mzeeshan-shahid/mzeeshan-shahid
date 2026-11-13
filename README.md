@@ -44,19 +44,68 @@ I work across the full product lifecycle — architecture, leading development t
 ## ✦ Tech Stack
 
 #### Frontend
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=14&i=react,nextjs,angular,vue,nuxtjs,vuetify,materialui,bootstrap,tailwind,sass,html,css,d3,threejs" alt="Frontend: react, nextjs, angular, vue, nuxtjs, vuetify, materialui, bootstrap, tailwind, sass, html, css, d3, threejs">
+<p>
+  <img src="./assets/icons/frontend/react.svg" alt="React" title="React" width="48" height="48">
+  <img src="./assets/icons/frontend/nextjs.svg" alt="Next.js" title="Next.js" width="48" height="48">
+  <img src="./assets/icons/frontend/angular.svg" alt="Angular" title="Angular" width="48" height="48">
+  <img src="./assets/icons/frontend/vue.svg" alt="Vue.js" title="Vue.js" width="48" height="48">
+  <img src="./assets/icons/frontend/nuxtjs.svg" alt="Nuxt" title="Nuxt" width="48" height="48">
+  <img src="./assets/icons/frontend/vuetify.svg" alt="Vuetify" title="Vuetify" width="48" height="48">
+  <img src="./assets/icons/frontend/materialui.svg" alt="Material UI" title="Material UI" width="48" height="48">
+  <img src="./assets/icons/frontend/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="48" height="48">
+  <img src="./assets/icons/frontend/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48">
+  <img src="./assets/icons/frontend/sass.svg" alt="Sass" title="Sass" width="48" height="48">
+  <img src="./assets/icons/frontend/html.svg" alt="HTML5" title="HTML5" width="48" height="48">
+  <img src="./assets/icons/frontend/css.svg" alt="CSS3" title="CSS3" width="48" height="48">
+  <img src="./assets/icons/frontend/d3.svg" alt="D3.js" title="D3.js" width="48" height="48">
+  <img src="./assets/icons/frontend/threejs.svg" alt="Three.js" title="Three.js" width="48" height="48">
+</p>
 
 #### Backend & APIs
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=14&i=nodejs,nestjs,express,fastapi,django,strapi,appwrite,supabase,stripe" alt="Backend & APIs: nodejs, nestjs, express, fastapi, django, strapi, appwrite, supabase, stripe">
+<p>
+  <img src="./assets/icons/backend/nodejs.svg" alt="Node.js" title="Node.js" width="48" height="48">
+  <img src="./assets/icons/backend/nestjs.svg" alt="NestJS" title="NestJS" width="48" height="48">
+  <img src="./assets/icons/backend/express.svg" alt="Express" title="Express" width="48" height="48">
+  <img src="./assets/icons/backend/fastapi.svg" alt="FastAPI" title="FastAPI" width="48" height="48">
+  <img src="./assets/icons/backend/django.svg" alt="Django" title="Django" width="48" height="48">
+  <img src="./assets/icons/backend/strapi.svg" alt="Strapi" title="Strapi" width="48" height="48">
+  <img src="./assets/icons/backend/appwrite.svg" alt="Appwrite" title="Appwrite" width="48" height="48">
+  <img src="./assets/icons/backend/supabase.svg" alt="Supabase" title="Supabase" width="48" height="48">
+  <img src="./assets/icons/backend/stripe.svg" alt="Stripe" title="Stripe" width="48" height="48">
+</p>
 
 #### Data & Storage
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=14&i=postgres,mongodb,mysql,redis,firebase" alt="Data & Storage: postgres, mongodb, mysql, redis, firebase">
+<p>
+  <img src="./assets/icons/data/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48">
+  <img src="./assets/icons/data/mongodb.svg" alt="MongoDB" title="MongoDB" width="48" height="48">
+  <img src="./assets/icons/data/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48">
+  <img src="./assets/icons/data/redis.svg" alt="Redis" title="Redis" width="48" height="48">
+  <img src="./assets/icons/data/firebase.svg" alt="Firebase" title="Firebase" width="48" height="48">
+</p>
 
 #### Cloud & DevOps
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=14&i=aws,azure,docker,githubactions,git,github,bitbucket,heroku" alt="Cloud & DevOps: aws, azure, docker, githubactions, git, github, bitbucket, heroku">
+<p>
+  <img src="./assets/icons/devops/aws.svg" alt="AWS" title="AWS" width="48" height="48">
+  <img src="./assets/icons/devops/azure.svg" alt="Azure" title="Azure" width="48" height="48">
+  <img src="./assets/icons/devops/docker.svg" alt="Docker" title="Docker" width="48" height="48">
+  <img src="./assets/icons/devops/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48">
+  <img src="./assets/icons/devops/git.svg" alt="Git" title="Git" width="48" height="48">
+  <img src="./assets/icons/devops/github.svg" alt="GitHub" title="GitHub" width="48" height="48">
+  <img src="./assets/icons/devops/bitbucket.svg" alt="Bitbucket" title="Bitbucket" width="48" height="48">
+  <img src="./assets/icons/devops/heroku.svg" alt="Heroku" title="Heroku" width="48" height="48">
+</p>
 
 #### AI, Languages & Workflow
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=14&i=claude,cursor,langchain,js,ts,python,figma,jira" alt="AI, Languages & Workflow: claude, cursor, langchain, js, ts, python, figma, jira">
+<p>
+  <img src="./assets/icons/ai-workflow/claude.svg" alt="Claude" title="Claude" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/cursor.svg" alt="Cursor" title="Cursor" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/langchain.svg" alt="LangChain" title="LangChain" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/python.svg" alt="Python" title="Python" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/figma.svg" alt="Figma" title="Figma" width="48" height="48">
+  <img src="./assets/icons/ai-workflow/jira.svg" alt="Jira" title="Jira" width="48" height="48">
+</p>
 
 ---
 
